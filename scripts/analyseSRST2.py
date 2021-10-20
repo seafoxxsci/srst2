@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# Python Version 2.7.5
+# Python Version 3.9.2
 #
 # Basic analysis of SRST2 output
 # Authors - Kathryn Holt (kholt@unimelb.edu.au)
@@ -107,8 +107,8 @@ def compile_results(args,mlst_results,db_results,sample_metadata_hashes,compiled
 					if variable not in variable_list:
 						variable_list.append(variable)
 						
-	print variable_list
-						
+	print(variable_list)
+	
 	if "Sample" in sample_list:
 		sample_list.remove("Sample")
 	sample_list.sort()
