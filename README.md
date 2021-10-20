@@ -84,7 +84,7 @@ Dependencies:
 Updates in current master branch (not yet in a release)
 -----
 
-1. Added new AMR gene database CARD_v3.0.8_SRST2.fasta, a curated version of CARD v3.0.8 with some fixes and additions based on comparisons with the ARG-Annot, ResFinder and NCBI AMR databases. This was done my Margaret Lam for the Kleborate paper, see details of modifications vs CARD v3.0.8 [here](https://figshare.com/articles/dataset/CARD_v3_0_8_AMR_database_curation_for_Kleborate/13256759)).
+1. Added new AMR gene database CARD_v3.0.8_SRST2.fasta, a curated version of CARD v3.0.8 with some fixes and additions based on comparisons with the ARG-Annot, ResFinder and NCBI AMR databases. This was done by Margaret Lam for the Kleborate paper, see details of modifications vs CARD v3.0.8 [here](https://figshare.com/articles/dataset/CARD_v3_0_8_AMR_database_curation_for_Kleborate/13256759)).
 2. Added to readme some instructions for using SRST2 to serotype Group B Streptococcus (S. agalactiae) using the GBS-SBG database, available [here](https://github.com/swainechen/GBS-SBG) - thanks to Swaine Chen and colleagues for this.
 
 -----------
